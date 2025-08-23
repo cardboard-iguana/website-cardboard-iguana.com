@@ -16,19 +16,6 @@ fi
 
 cd "$SCRIPT_DIR"
 
-# Determine which yarn to use
-#
-if [[ -n "$(which yarn 2> /dev/null)" ]]; then
-	YARN="$(which yarn)"
-	INSTALL_YARN="no"
-elif [[ -n "$(corepack 2> /dev/null)" ]]; then
-	YARN="$SCRIPT_DIR/build/quartz/yarn"
-	INSTALL_YARN="yes"
-else
-	echo "Yarn is not installed and Node Corepack is not available!"
-	exit 1
-fi
-
 # Try to locate Obsidian vault directory.
 #
 if [[ -d "$HOME/notes/$OBSIDIAN_VAULT/.obsidian" ]]; then
@@ -84,16 +71,10 @@ fi
 	if [[ -e .git ]]; then
 		rm -rf .git
 	fi
-	if [[ -e package-lock.json ]]; then
-		rm -f package-lock.json
-	fi
 	if [[ ! -f quartz/styles/custom-fonts.scss ]]; then
 		curl -fsSL -o quartz/styles/custom-fonts.scss "https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap"
 	fi
-	if [[ "$INSTALL_YARN" == "yes" ]]; then
-		corepack enable --install-directory .
-	fi
-	$YARN install
+	npm install
 )
 
 # Build the site!
@@ -106,14 +87,14 @@ fi
 
 	cd build/quartz
 	if [[ "$1" == "serve" ]]; then
-		$YARN run quartz build \
-		    --directory ../obsidian \
-		    --output ../../www/"$OBSIDIAN_VAULT" \
-		    --serve
+		npm exec -- quartz build \
+		                 --directory ../obsidian \
+		                 --output ../../www/"$OBSIDIAN_VAULT" \
+		                 --serve
 	else
-		$YARN run quartz build \
-		    --directory ../obsidian \
-		    --output ../../www/"$OBSIDIAN_VAULT"
+		npm exec -- quartz build \
+		                 --directory ../obsidian \
+		                 --output ../../www/"$OBSIDIAN_VAULT"
 	fi
 	sed -i.bak -e "s#href=\&quot;[\./]*/#href=\&quot;$WEB_PATH/#g;s#src=\&quot;[\./]*/#src=\&quot;$WEB_PATH/#g;s#$WEB_PATH/[\./]*/#$WEB_PATH/#g" ../../www/"$OBSIDIAN_VAULT"/index.xml
 	rm ../../www/"$OBSIDIAN_VAULT"/index.xml.bak

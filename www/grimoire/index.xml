@@ -4,12 +4,12 @@
       <title>Cardboard Iguana Security</title>
       <link>https://cardboard-iguana.com/grimoire</link>
       <description>Commentary and tales from Cardboard Iguana Security</description>
-      <generator>Quartz — quartz.jzhao.xyz</generator>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>Union</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2023-04-27</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2023-04-27</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -288,13 +288,13 @@ Nmap done: 1 IP address (1 host up) scanned in 56.07 seconds
 &lt;p&gt;will return the contents of that file.&lt;/p&gt;
 &lt;p&gt;Which just so happens to be the ​&lt;strong&gt;second flag&lt;/strong&gt;​.&lt;/p&gt;
 &lt;p&gt;(Really, I &lt;em&gt;should&lt;/em&gt; have used this trick to get both flags…)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 4 h 6 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 4 h 6 min&lt;/p&gt; ]]></description>
     <pubDate>Thu, 27 Apr 2023 06:00:00 GMT</pubDate>
   </item><item>
     <title>Trying (and failing) to deploy a smart contract using an iPad Pro</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-11-27</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-11-27</guid>
-    <description>&lt;p&gt;My personal project this weekend was to deploy a smart contract to the Ethereum blockchain. The motivation here was to be able to mint an NFT (really, several NFTs) for use as an avatar on &lt;a href=&quot;https://www.farcaster.xyz/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Farcaster&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, an alternative to Twitter that &lt;a href=&quot;https://fcast.me/necopinus&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;I’ve been experimenting with&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; for a few weeks now. Using an NFT as your avatar on Farcaster adds a “&lt;a href=&quot;https://farcasterxyz.notion.site/How-to-get-a-purple-checkmark-fb66f0cb0f5f4f24b699b8f288a2f14a&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;purple checkmark&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;” to your account, a spoof on Twitter’s infamous &lt;a href=&quot;https://help.twitter.com/managing-your-account/about-twitter-verified-accounts&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;blue checkmark&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
+    <description><![CDATA[ &lt;p&gt;My personal project this weekend was to deploy a smart contract to the Ethereum blockchain. The motivation here was to be able to mint an NFT (really, several NFTs) for use as an avatar on &lt;a href=&quot;https://www.farcaster.xyz/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Farcaster&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, an alternative to Twitter that &lt;a href=&quot;https://fcast.me/necopinus&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;I’ve been experimenting with&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; for a few weeks now. Using an NFT as your avatar on Farcaster adds a “&lt;a href=&quot;https://farcasterxyz.notion.site/How-to-get-a-purple-checkmark-fb66f0cb0f5f4f24b699b8f288a2f14a&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;purple checkmark&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;” to your account, a spoof on Twitter’s infamous &lt;a href=&quot;https://help.twitter.com/managing-your-account/about-twitter-verified-accounts&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;blue checkmark&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;(For those who are interested, &lt;a href=&quot;https://support.opensea.io/hc/en-us/articles/4415562648851-How-do-I-set-my-NFT-as-my-Twitter-profile-picture-&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Twitter provides the ability to set an NFT as your avatar&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, though you need to subscribe to “Twitter Blue” and be using iOS in order to access this feature.)&lt;/p&gt;
 &lt;p&gt;The central problem here is that if I use an NFT as my avatar, then I need to pay for another NFT (either to buy one or mint one myself) whenever I decide I want to change my avatar. Also, my current (and favorite) avatar is taken from a &lt;a href=&quot;https://dangerousminds.net/comments/the_artist_who_visited_dune&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;John Schoenherr&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; painting of one of the great sandworms of Arrakis - I’m not sure I want to “mint” that in any way that could be interpreted as me claiming “ownership” of it. It’s Schoenherr’s painting after all!&lt;/p&gt;
 &lt;p&gt;Finally, all of the services I’ve seen that allow you to mint your own NFT store the associated JSON metadata and image file using a decentralized solution like &lt;a href=&quot;https://ipfs.tech/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;IPFS&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; or &lt;a href=&quot;https://www.arweave.org/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Arweave&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;. This is actually a good thing, because it gives “collectable” NFTs a degree of permanence, but in my case I actually &lt;em&gt;want&lt;/em&gt; to be able to update the associated metadata and image arbitrarily. Fortunately, I control my own domain and &lt;a href=&quot;https://eips.ethereum.org/EIPS/eip-721&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;EIP-721&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; (which defines the NFT standard) doesn’t forbid using “non-permenant” &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Uniform-resource-locators&quot; class=&quot;internal alias&quot; data-slug=&quot;spells/Uniform-resource-locators&quot;&gt;URIs&lt;/a&gt;, so all this means is that I need to deploy my own smart contract to create my NFT avatar(s), rather than using a pre-packaged solution.&lt;/p&gt;
@@ -373,13 +373,13 @@ Nmap done: 1 IP address (1 host up) scanned in 56.07 seconds
 &lt;p&gt;Once the contract was deployed, the only other stumbling block I ran into was that it’s not obvious that the safeMint function requires &lt;em&gt;two&lt;/em&gt; arguments - the first is the address to send the NFT to, and the second is the metadata &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Uniform-resource-locators&quot; class=&quot;internal alias&quot; data-slug=&quot;spells/Uniform-resource-locators&quot;&gt;URI&lt;/a&gt;. You can use the chevron next to the function name in Remix to expand both arguments into separate fields, which makes it more obvious how to enter in the necessary information.&lt;/p&gt;
 &lt;p&gt;The tokenURI function is also useful: When called with the token ID (an incrementing integer, starting at 0), it will return the metadata &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Uniform-resource-locators&quot; class=&quot;internal alias&quot; data-slug=&quot;spells/Uniform-resource-locators&quot;&gt;URI&lt;/a&gt; for the corresponding NFT.&lt;/p&gt;
 &lt;p&gt;The minted NFTs took a looooong time to show up in &lt;a href=&quot;https://metamask.io&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;MetaMask&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;, but they did show up in &lt;a href=&quot;https://opensea.io&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;OpenSea&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; pretty much immediately. You can use the OpenSea interface to transfer the minted NFTs to other accounts.&lt;/p&gt;
-&lt;p&gt;It’s worth noting here that viewing and transferring any NFTs you mint works fine on Safari + Light Wallet. It’s &lt;em&gt;only&lt;/em&gt; the Remix IDE that doesn’t like that setup, and in fact it’s &lt;em&gt;only&lt;/em&gt; deploying and interacting with your contract that’s broken. Everything else in this process can be done using iPadOS. Hopefully this situation will improve over time.&lt;/p&gt;</description>
+&lt;p&gt;It’s worth noting here that viewing and transferring any NFTs you mint works fine on Safari + Light Wallet. It’s &lt;em&gt;only&lt;/em&gt; the Remix IDE that doesn’t like that setup, and in fact it’s &lt;em&gt;only&lt;/em&gt; deploying and interacting with your contract that’s broken. Everything else in this process can be done using iPadOS. Hopefully this situation will improve over time.&lt;/p&gt; ]]></description>
     <pubDate>Sun, 27 Nov 2022 07:00:00 GMT</pubDate>
   </item><item>
     <title>Notes from HOPE and DEF CON</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-08-15</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-08-15</guid>
-    <description>&lt;p&gt;Now that both &lt;a href=&quot;https://xiv.hope.net/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;HOPE&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; and &lt;a href=&quot;https://defcon.org/html/defcon-30/dc-30-index.html&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;DEF CON&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; are behind me, I want to summarize some of my initial thoughts. This is not a “what did I learn about hacking” post, but rather musings about &lt;em&gt;attending&lt;/em&gt; these events.&lt;/p&gt;
+    <description><![CDATA[ &lt;p&gt;Now that both &lt;a href=&quot;https://xiv.hope.net/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;HOPE&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; and &lt;a href=&quot;https://defcon.org/html/defcon-30/dc-30-index.html&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;DEF CON&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; are behind me, I want to summarize some of my initial thoughts. This is not a “what did I learn about hacking” post, but rather musings about &lt;em&gt;attending&lt;/em&gt; these events.&lt;/p&gt;
 &lt;h2 id=&quot;device-security&quot;&gt;Device security&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#device-security&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The internet is awash with advice to only bring burner phones/laptops to DEF CON (or hacker conferences in general), to assume any credit card you use while attending (or even being near) DEF CON is compromised, etc.&lt;/p&gt;
 &lt;p&gt;After much consideration, I’ve come to believe that much of this “advice” is ill-conceived, and shows either the advice-giver’s poor risk modeling abilities or inflated sense of their own importance. &lt;a href=&quot;https://blog.erratasec.com/2019/08/securing-devices-for-defcon.html&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;Rob Graham’s advice&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; is much better: Encrypt your stuff and be careful about &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Wi-Fi&quot; class=&quot;internal&quot; data-slug=&quot;spells/Wi-Fi&quot;&gt;Wi-Fi&lt;/a&gt; and Bluetooth, and you’ll almost certainly be fine.&lt;/p&gt;
@@ -417,13 +417,13 @@ Nmap done: 1 IP address (1 host up) scanned in 56.07 seconds
 &lt;h3 id=&quot;a-note-on-masks&quot;&gt;A note on masks&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#a-note-on-masks&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I don’t like wearing masks, but if I’m going to wear one I’m going to wear an &lt;em&gt;effective&lt;/em&gt; one. Since HOPE and DEF CON were both masked events, I brought along tight-fitting &lt;a href=&quot;https://bnx.com/products/n95-mask-black-made-in-usa-bifold-h95b/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;N95 masks&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt; for use while attending the conference.&lt;/p&gt;
 &lt;p&gt;The problem with a well-fitted N95 masks is that they’re kind of a pain to take off. This makes both eating and (more importantly) drinking a less attractive proposition. I wound up going back to my hotel to do both during the day, which created larger gaps in my schedule than I planned.&lt;/p&gt;
-&lt;p&gt;Moving forward, I don’t think it makes sense to bring a water bottle to any events that have a mask requirement. I also need to remember that I can’t effectively pull off my normal back-to-back-to-back event schedule at conferences with mask requirements. This means doing &lt;em&gt;less&lt;/em&gt; at these events than I otherwise would, but &lt;em&gt;c’est la vie&lt;/em&gt; in the time of plague.&lt;/p&gt;</description>
+&lt;p&gt;Moving forward, I don’t think it makes sense to bring a water bottle to any events that have a mask requirement. I also need to remember that I can’t effectively pull off my normal back-to-back-to-back event schedule at conferences with mask requirements. This means doing &lt;em&gt;less&lt;/em&gt; at these events than I otherwise would, but &lt;em&gt;c’est la vie&lt;/em&gt; in the time of plague.&lt;/p&gt; ]]></description>
     <pubDate>Mon, 15 Aug 2022 06:00:00 GMT</pubDate>
   </item><item>
     <title>Net sec challenge</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-04-03</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-04-03</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -576,13 +576,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;p&gt;What about a null scan? That might actually get me more information than an ACK scan, but should elicit &lt;em&gt;any&lt;/em&gt; response from open ports.&lt;/p&gt;
 &lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#6F42C1;--shiki-dark:#B392F0&quot;&gt;sudo&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; nmap&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -v&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -Pn&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -n&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -T4&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -sN&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -p-&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; 10.10.34.244&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;p&gt;“Null scan” is apparently the right answer, as the challenge provided the flag almost immediately (which doesn’t &lt;em&gt;actually&lt;/em&gt; make any sense, but whatever…).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 31 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 31 min&lt;/p&gt; ]]></description>
     <pubDate>Sun, 03 Apr 2022 06:00:00 GMT</pubDate>
   </item><item>
     <title>Jurassic Park</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-02-02</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-02-02</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -923,7 +923,7 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;li&gt;/delete is a plain text file: “New priv esc for Ubuntu?? Change &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/MySQL&quot; class=&quot;internal&quot; data-slug=&quot;spells/MySQL&quot;&gt;MySQL&lt;/a&gt; password on main system!”&lt;/li&gt;
 &lt;li&gt;/server-status is forbidden (which is not surprising).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Out of curiosity, I tried loading &lt;code&gt;/item.php?id=robots.txt&lt;/code&gt; to see if I could get file inclusion without ascending. This doesn’t work, but throws another SQL error: “Unknown column ‘robots.txt in ‘where clause’”. This indicates that we’re definitely vulnerable to some kind of injection, since robots.txt is being treated as a column spec. In fact, this indicates that there must not be any quoting going on at all!&lt;/p&gt;
+&lt;p&gt;Out of curiosity, I tried loading &lt;code&gt;/item.php?id=robots.txt&lt;/code&gt; to see if I could get file inclusion without ascending. This doesn’t work, but throws another SQL error: “Unknown column ‘robots.txt in ‘where clause’“. This indicates that we’re definitely vulnerable to some kind of injection, since robots.txt is being treated as a column spec. In fact, this indicates that there must not be any quoting going on at all!&lt;/p&gt;
 &lt;p&gt;And indeed, trying &lt;code&gt;/item.php?id=0 or 1=1&lt;/code&gt; brings up the same broken page as &lt;code&gt;/item.php?id=100&lt;/code&gt;. So I think what’s going on here is that /item.php is just doing some string filtering (it looks like it’s probably also checking if you’re trying to include a real file, as attempting to include non-existent files &lt;em&gt;doesn’t&lt;/em&gt; trigger it).&lt;/p&gt;
 &lt;p&gt;What the hell, let’s throw &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/SQLMap&quot; class=&quot;internal&quot; data-slug=&quot;spells/SQLMap&quot;&gt;SQLMap&lt;/a&gt; at it anyway!&lt;/p&gt;
 &lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#6F42C1;--shiki-dark:#B392F0&quot;&gt;sqlmap&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -u&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; http://10.10.105.134/item.php?id=&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; \&lt;/span&gt;&lt;/span&gt;
@@ -963,13 +963,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;p&gt;Continuing to poke around, &lt;code&gt;cat .bash_history&lt;/code&gt; reveals the third flag (as well as a lot of scp attempts around /root/flag5.txt, which I just got).&lt;/p&gt;
 &lt;p&gt;The ~/.viminfo file reveals two more potential flags: /boot/grub/fonts/flagTwo.txt and /tmp/flagFour.txt.&lt;/p&gt;
 &lt;p&gt;But, as the TryHackMe room notes, there is no fourth flag.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 53 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 53 min&lt;/p&gt; ]]></description>
     <pubDate>Wed, 02 Feb 2022 07:00:00 GMT</pubDate>
   </item><item>
     <title>Inclusion</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-02-01</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-02-01</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -1233,13 +1233,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;p&gt;Score! We’re running as root. So we should be able to get our hands on anything.&lt;/p&gt;
 &lt;p&gt;Unfortunately, it looks like neither falconfeast nor root have &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/SSH&quot; class=&quot;internal&quot; data-slug=&quot;spells/SSH&quot;&gt;SSH&lt;/a&gt; keys (I checked for &lt;code&gt;id_dsa&lt;/code&gt;, &lt;code&gt;id_rsa&lt;/code&gt;, and &lt;code&gt;id_id_ed25519&lt;/code&gt;), so we’re just going to have to blindly find the flags.&lt;/p&gt;
 &lt;p&gt;Fortunately, the flag file names are pretty standard, so finding them didn’t take long.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 56 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 56 min&lt;/p&gt; ]]></description>
     <pubDate>Tue, 01 Feb 2022 07:00:00 GMT</pubDate>
   </item><item>
     <title>Tools&#039;R&#039;Us</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-01-30</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-01-30</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -1568,13 +1568,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;span data-line=&quot;&quot;&gt;&lt;span&gt;exploit&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;p&gt;And we have a &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/meterpreter&quot; class=&quot;internal&quot; data-slug=&quot;spells/meterpreter&quot;&gt;meterpreter&lt;/a&gt; shell! Running getuid reveals that we’re also running as root. Ouch.&lt;/p&gt;
 &lt;p&gt;We’ll just drop to shell in &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/meterpreter&quot; class=&quot;internal&quot; data-slug=&quot;spells/meterpreter&quot;&gt;meterpreter&lt;/a&gt; to get the contents of /root/flag.txt.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 3 h 7 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 3 h 7 min&lt;/p&gt; ]]></description>
     <pubDate>Sun, 30 Jan 2022 07:00:00 GMT</pubDate>
   </item><item>
     <title>Retro</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2022-01-02</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2022-01-02</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -1661,13 +1661,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;p&gt;Of course, the TryHackMe machine doesn’t have internet access, but we can follow this link locally. Moreover, searching for hhupd reveals that &lt;a href=&quot;https://www.nagenrauft-consulting.com/2019/11/21/cve-2019-1388-hhupd-exe/&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;this is a program that can be used to perform the attack&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;; that page helpfully links to &lt;a href=&quot;https://www.youtube.com/watch?v=3BQKpPNlTSo&quot; class=&quot;external&quot; target=&quot;_blank&quot;&gt;a YouTube video demonstrating how to leverage hhupd.exe in exactly this way&lt;svg aria-hidden=&quot;true&quot; class=&quot;external-icon&quot; style=&quot;max-width:0.8em;max-height:0.8em&quot; viewBox=&quot;0 0 512 512&quot;&gt;&lt;path d=&quot;M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The attack works somewhat differently on this system than in Blaster (or the demonstration video), however. Instead of opening up an Internet Explorer window outside of the secure desktop, IE is opened up &lt;em&gt;on&lt;/em&gt; the UAC desktop itself, and all interaction needs to take place there (we also get a choice of using IE or Chrome…). Still, overall things work more-or-less as we’d expect, and we can use the resulting elevated command prompt to read &lt;code&gt;C:\Users\Administrator\Desktop\root.txt.txt&lt;/code&gt; (note the extra .txt) to obtain the final flag.&lt;/p&gt;
 &lt;p&gt;(I kinda feel like I cheated now, since I did Blaster first without realizing that this room was almost &lt;em&gt;exactly&lt;/em&gt; the same.)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 1 h 16 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 1 h 16 min&lt;/p&gt; ]]></description>
     <pubDate>Sun, 02 Jan 2022 07:00:00 GMT</pubDate>
   </item><item>
     <title>Attacktive Directory</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2021-12-30</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2021-12-30</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -2179,13 +2179,13 @@ Unable to connect with SMB1 -- no workgroup available
 &lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#6F42C1;--shiki-dark:#B392F0&quot;&gt;evil-winrm&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; --ip&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; 10.10.177.198&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; --user&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; Administrator&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; \&lt;/span&gt;&lt;/span&gt;
 &lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt;           --hash&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; 0e0363213e37b94221497260b0bcb4fc&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;p&gt;The final flag is in a file called root.txt on the Administrator account’s desktop.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 38 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 38 min&lt;/p&gt; ]]></description>
     <pubDate>Thu, 30 Dec 2021 07:00:00 GMT</pubDate>
   </item><item>
     <title>Overpass 2: Hacked</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2021-12-14</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2021-12-14</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -2240,13 +2240,13 @@ muirland:1qaz2wsx
 &lt;p&gt;This turned up an unusual file - &lt;code&gt;/home/james/.suid_bash&lt;/code&gt;. Could this be… &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Avoid-dropping-privileges-with-SUID-Bash&quot; class=&quot;internal alias&quot; data-slug=&quot;spells/Avoid-dropping-privileges-with-SUID-Bash&quot;&gt;an SUID copy of Bash&lt;/a&gt;? Indeed it is!&lt;/p&gt;
 &lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#6F42C1;--shiki-dark:#B392F0&quot;&gt;/home/james/.suid_bash&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -p&lt;/span&gt;&lt;span style=&quot;--shiki-light:#6A737D;--shiki-dark:#6A737D&quot;&gt; # Root shell!&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;p&gt;The root flag is then in /root/root.txt.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 1 h 43 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 1 h 43 min&lt;/p&gt; ]]></description>
     <pubDate>Tue, 14 Dec 2021 07:00:00 GMT</pubDate>
   </item><item>
     <title>Blaster</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2021-12-08</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2021-12-08</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -2371,13 +2371,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 15 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 15 min&lt;/p&gt; ]]></description>
     <pubDate>Wed, 08 Dec 2021 07:00:00 GMT</pubDate>
   </item><item>
     <title>Ice</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2021-12-07</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2021-12-07</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -2535,13 +2535,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;p&gt;It turns out that Windows loads &lt;em&gt;unhashed&lt;/em&gt; passwords into LSASS for any users with scheduled jobs!&lt;/p&gt;
 &lt;h2 id=&quot;past-exploitation&quot;&gt;Past-exploitation&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#past-exploitation&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Hashes dumped using hashdump can be cracked offline using &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Hydra&quot; class=&quot;internal&quot; data-slug=&quot;spells/Hydra&quot;&gt;Hydra&lt;/a&gt; or &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/John-the-Ripper&quot; class=&quot;internal alias&quot; data-slug=&quot;spells/John-the-Ripper&quot;&gt;John the Ripper&lt;/a&gt;. It can be helpful to know a little about &lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Kerberos&quot; class=&quot;internal&quot; data-slug=&quot;spells/Kerberos&quot;&gt;Kerberos&lt;/a&gt; tickets at this point&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 39 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 2 h 39 min&lt;/p&gt; ]]></description>
     <pubDate>Tue, 07 Dec 2021 07:00:00 GMT</pubDate>
   </item><item>
     <title>Basic pentesting</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2021-11-04</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2021-11-04</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -3026,13 +3026,13 @@ it? Change that password ASAP.
 &lt;p&gt;Adapting the escape from GTFOBins for the present case gives us:&lt;/p&gt;
 &lt;figure data-rehype-pretty-code-figure=&quot;&quot;&gt;&lt;pre tabindex=&quot;0&quot; data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot;&gt;&lt;code data-language=&quot;bash&quot; data-theme=&quot;github-light github-dark&quot; style=&quot;display: grid;&quot;&gt;&lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#6F42C1;--shiki-dark:#B392F0&quot;&gt;vim.basic&lt;/span&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt; -c&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; &#039;:py3 import os; os.execl(&quot;/bin/sh&quot;, &quot;sh&quot;, &quot;-pc&quot;, &quot;reset; exec sh -p&quot;)&#039;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;p&gt;And this indeed gives us root! With this new power, we can enter the second user’s home directory and read pass.bak for our final flag.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 3 h 19 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 3 h 19 min&lt;/p&gt; ]]></description>
     <pubDate>Thu, 04 Nov 2021 06:00:00 GMT</pubDate>
   </item><item>
     <title>Pickle Rick</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2021-10-10</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2021-10-10</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -3195,13 +3195,13 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;span data-line=&quot;&quot;&gt;&lt;span style=&quot;--shiki-light:#005CC5;--shiki-dark:#79B8FF&quot;&gt;    -o&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; IdentityAgent=none&lt;/span&gt;&lt;span style=&quot;--shiki-light:#032F62;--shiki-dark:#9ECBFF&quot;&gt; ubuntu@10.10.158.139&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 &lt;p&gt;Though it turns out that I didn’t have to go this far… The third flag is just in the &lt;code&gt;.bash_history&lt;/code&gt; file of the ubuntu user.&lt;/p&gt;
 &lt;p&gt;Oh well, I still got a root shell (albeit in a totally noisy fashion).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 3 h 11 min&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Elapsed Time:&lt;/strong&gt; 3 h 11 min&lt;/p&gt; ]]></description>
     <pubDate>Sun, 10 Oct 2021 06:00:00 GMT</pubDate>
   </item><item>
     <title>Bandit</title>
     <link>https://cardboard-iguana.com/grimoire/journals/2020-07-27</link>
     <guid>https://cardboard-iguana.com/grimoire/journals/2020-07-27</guid>
-    <description>&lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
+    <description><![CDATA[ &lt;blockquote class=&quot;callout note&quot; data-callout=&quot;note&quot;&gt;
 &lt;div class=&quot;callout-title&quot;&gt;
                   &lt;div class=&quot;callout-icon&quot;&gt;&lt;/div&gt;
                   &lt;div class=&quot;callout-title-inner&quot;&gt;&lt;p&gt;Note&lt;/p&gt;&lt;/div&gt;
@@ -3221,7 +3221,7 @@ OS and Service detection performed. Please report any incorrect results at https
 &lt;p&gt;&lt;/p&gt;&lt;blockquote class=&quot;transclude&quot; data-url=&quot;Send-a-command-using-OpenSSL&quot; data-block=&quot;&quot; data-embed-alias=&quot;undefined&quot;&gt;&lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Send-a-command-using-OpenSSL&quot; class=&quot;transclude-inner internal alias&quot; data-slug=&quot;spells/Send-a-command-using-OpenSSL&quot;&gt;Transclude of Send-a-command-using-OpenSSL&lt;/a&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;
 &lt;h2 id=&quot;bandit-26&quot;&gt;Bandit 26&lt;a role=&quot;anchor&quot; aria-hidden tabindex=&quot;-1&quot; data-no-popover href=&quot;#bandit-26&quot; class=&quot;internal&quot;&gt;&lt;svg width=&quot;18&quot; height=&quot;18&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;&lt;path d=&quot;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;&lt;blockquote class=&quot;transclude&quot; data-url=&quot;more&quot; data-block=&quot;&quot; data-embed-alias=&quot;undefined&quot;&gt;&lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/more&quot; class=&quot;transclude-inner internal alias&quot; data-slug=&quot;spells/more&quot;&gt;Transclude of more&lt;/a&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;blockquote class=&quot;transclude&quot; data-url=&quot;Get-a-shell-from-ViM&quot; data-block=&quot;&quot; data-embed-alias=&quot;undefined&quot;&gt;&lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Get-a-shell-from-ViM&quot; class=&quot;transclude-inner internal alias&quot; data-slug=&quot;spells/Get-a-shell-from-ViM&quot;&gt;Transclude of Get-a-shell-from-ViM&lt;/a&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;&lt;blockquote class=&quot;transclude&quot; data-url=&quot;Get-a-shell-from-ViM&quot; data-block=&quot;&quot; data-embed-alias=&quot;undefined&quot;&gt;&lt;a href=&quot;https://cardboard-iguana.com/grimoire/spells/Get-a-shell-from-ViM&quot; class=&quot;transclude-inner internal alias&quot; data-slug=&quot;spells/Get-a-shell-from-ViM&quot;&gt;Transclude of Get-a-shell-from-ViM&lt;/a&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt; ]]></description>
     <pubDate>Mon, 27 Jul 2020 06:00:00 GMT</pubDate>
   </item>
     </channel>
