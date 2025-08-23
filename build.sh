@@ -54,6 +54,7 @@ fi
 		       .trash \
 		       assets/private \
 		       metadata \
+		       smart-templates \
 		       templates
 		find . -type f \( -name '.DS_Store' -o -name '.nomedia' \) -delete
 		cd ..
