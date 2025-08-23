@@ -34,7 +34,7 @@ const config: QuartzConfig = {
           dark:          "#654735", // --tx2
           secondary:     "hsl(70, 45%, 33%)", // --ax1
           tertiary:      "hsl(70, 45%, 25%)", // --ax2 (l - 8%)
-          highlight:     "hsla(70, 45%, 33%, 20%)", // --ax1 @ 20% opacity
+          highlight:     "hsla(70, 45%, 33%, 10%)", // --ax1 @ 10% opacity
           textHighlight: "rgba(180, 113, 9, 0.2)"  // --hl2
         },
         darkMode: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           dark:          "#d4be98", // --tx2
           secondary:     "hsl(70, 36%, 47%)", // --ax1
           tertiary:      "hsl(70, 36%, 55%)", // --ax2 (l + 8%)
-          highlight:     "hsla(70, 36%, 47%, 30%)", // --ax1 @ 30% opacity
+          highlight:     "hsla(70, 36%, 47%, 20%)", // --ax1 @ 20% opacity
           textHighlight: "rgba(216, 166, 87, 0.2)"  // --hl2
         }
       }
