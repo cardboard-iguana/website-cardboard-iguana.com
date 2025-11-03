@@ -10,12 +10,12 @@
 
 [[redirects]]
   from = "https://cardboard-iguana.com/grimoire/*"
-  to = "https://publish.obsidian.md/serve?url=www.cardboard-iguana.com/grimoire/:splat"
+  to = "https://publish.obsidian.md/serve?url=cardboard-iguana.com/grimoire/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "https://www.cardboard-iguana.com/grimoire/*"
-  to = "https://publish.obsidian.md/serve?url=www.cardboard-iguana.com/grimoire/:splat"
+  to = "https://publish.obsidian.md/serve?url=cardboard-iguana.com/grimoire/:splat"
   status = 200
   force = true
